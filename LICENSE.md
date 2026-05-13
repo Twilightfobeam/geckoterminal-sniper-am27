@@ -1,4 +1,4 @@
-# 
+# quantitative Scanner for geckoterminal sniper bot | take-profit & rug-pull-detection is the best geckoterminal sniper bot, featuring take-profit and rug-pull-detection. Fast,
 
 
 
